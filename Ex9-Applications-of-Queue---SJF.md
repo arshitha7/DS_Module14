@@ -22,7 +22,6 @@ Program to find the Total Waiting Time and Average Waiting Time in Shortest Job 
 Developed by: Arshitha MS
 RegisterNumber: 212223240015 
 */
-```
 #include<stdio.h>
 int main()
 {
@@ -74,6 +73,7 @@ printf("AverageWaitingTime=%f\n",avg_wt);
 printf("AverageTurnaroundTime=%f\n",avg_tat);
 return 0;
 }
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/77ca918b-e8a3-4f36-ba90-9e404d571c1e)
 
