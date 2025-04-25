@@ -34,6 +34,7 @@ printf("\n");
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/12be6f9c-0a1c-46f9-8e89-5c5325c5f2f3)
 
 
 
