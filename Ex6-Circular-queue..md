@@ -53,7 +53,8 @@ return element;
 ```
 
 ## Output:
-Image 14, Picture
+![image](https://github.com/user-attachments/assets/816c3122-c1a7-4217-9c6b-371a0566617a)
+
 
 
 ## Result:
